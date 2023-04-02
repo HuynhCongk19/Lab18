@@ -1,0 +1,16 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./DSC_0338.JPG);
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./IMG_1914.JPG);
+}
+.bg-img3 {
+  background-color: #ad4b4b;
+  background-size: cover;
+  background-image: url(./DSC_0358.JPG);
+}
